@@ -1,0 +1,2 @@
+# Scraping_Senscritique_users_data
+The website senscritique.com gathers several hundreds of thousands of users' reviews on different media (movies, music, books etc). In order to create a model that matches people's tastes in terms of music with their tastes in terms of movies, we needed to obtain a dataset that would give, for a given user, their preferences in both domains. This code allows one to obtain the website's database in its entierty.
